@@ -1,6 +1,6 @@
 # Wave form collapse demo
 
-This project is contains a small example of the wave function collapse algorithm. The solver is rather straightfoward, because it randomly selects a tile. Because it is very simple, it can't handle occurences where there is no tile available. In this can a backtracking algorithm should be used, which we were to lazy to implement.
+This project contains a small example of the wave function collapse algorithm. The solver is rather straightfoward, because it randomly selects a tile. Because it is very simple, it can't handle occurences where there is no tile available. In this can a backtracking algorithm should be used, which we were to lazy to implement.
 
 ![Map1](/test1.png)
 
